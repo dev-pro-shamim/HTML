@@ -1,43 +1,46 @@
+#myBackground{
+    /* height: 200px;
+    width: 200px;
+    background-color: aqua; */
 
-/* Element selector */
+   
+    /* border-style: dotted; */
+    /* border-style: solid; */
+    /* border-style: dashed; */
+    /* border-style: double; */
+    /* border-style: groove; */
+    /* border-style: inset; */
 
-/* h1{
+    /* border-style: outset; */
+    /* border-style: ridge; */
+    /* border-color: red; */
+    /* border: 10px solid red; */
+    /* border-radius: 20px; */
+    /* border-radius: 50%; */
+    /* border-radius: 40px 50px 60px 15px; */
 
-    color: aqua;
-    background-color: beige;
-
-} */
-
-
-
-
-/* Id selector */
-
-
-/* #afia{
-    color: aqua;
-    background-color: beige;
-} */
-
-
-/* Class selector */
-
-/* .shamim{
-    color: blue;
-} */
-
-
-
-/* Universal Selector */
+    
 
 
 
 
-/* body{
-    background-color: rgb(189, 221, 211);
-} */
 
 
+}
 
-/* Group Selector  */
-
+p{
+    background-color: aqua;
+    display: inline-block;
+   
+}
+h1{
+    background-color: burlywood;
+    display: inline-block;
+}
+div{
+    background-color: chartreuse;
+    
+}
+mark{
+   
+}
